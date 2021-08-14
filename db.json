@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "text": 1,
+      "day": "json-server",
+      "reminder": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
