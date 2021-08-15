@@ -1,19 +1,10 @@
 {
   "tasks": [
     {
-      "text": 1,
-      "day": "json-server",
-      "reminder": "typicode"
+      "text": "Gym",
+      "day": "Monday",
+      "reminder": true,
+      "id": 1
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
